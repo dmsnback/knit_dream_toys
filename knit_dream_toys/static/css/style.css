@@ -5,6 +5,16 @@
 
 }
 
+
+.collapse {
+    margin-left: 100px;
+}
+
+.text-name {
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
 .dropdown:hover >.dropdown-menu{
   display: block !important;
 }
@@ -31,4 +41,21 @@
       line-height: 12px;
 }
 
+.container-content {
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.btn {
+
+    background-color: #FCC1E0;
+    border-color: #FCC1E0;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.toy-item{
+    height: 400px;
+    width: 250px;
+}
 
